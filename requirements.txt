@@ -1,0 +1,13 @@
+fastapi
+gTTS
+matplotlib
+openai
+openpyxl
+pandas
+playsound
+python-dotenv
+pyttsx3
+requests
+SpeechRecognition
+streamlit
+uvicorn

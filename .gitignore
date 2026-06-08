@@ -1,0 +1,12 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Excel temp files
+~$*.xlsx
+
+# Local health and user data
+data/*.xlsx
